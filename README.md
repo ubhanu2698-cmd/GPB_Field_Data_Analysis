@@ -68,7 +68,7 @@ A small sample dataset (`Sample_Data.xlsx`) is included in this repository for t
 
 If you use this app in your research, please cite:  
 
-> Udaya Bhanu Angirekula (2025). GPB Field Data Analysis Shiny App. GitHub repository, [https://github.com/ubhanu2698/GPB_Field_Data_Analysis](https://github.com/ubhanu2698/GPB_Field_Data_Analysis). DOI to be added once archived on Zenodo.
+> Udaya Bhanu Angirekula (2025). GPB Field Data Analysis Shiny App. GitHub repository, [https://github.com/ubhanu2698/GPB_Field_Data_Analysis](https://github.com/ubhanu2698/GPB_Field_Data_Analysis). DOI 10.5281/zenodo.16932286.
 
 ---
 
